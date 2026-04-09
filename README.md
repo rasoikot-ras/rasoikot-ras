@@ -24,14 +24,6 @@
 <a href="https://www.google.com/search?q=https://linkedin.com/in/ra-soikot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RA SOIKOT LinkedIn" height="30" width="40" /></a>
 </p>
 
-📊 GitHub Stats:
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Drasoikot-ras%26show_icons%3Dtrue%26theme%3Dtokyonight" alt="RA SOIKOT Stats" />
-</p>
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Drasoikot-ras%26theme%3Dtokyonight" alt="RA SOIKOT Streak" />
-</p>
 
 ---
 
