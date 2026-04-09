@@ -1,3 +1,5 @@
+<img width="1456" height="720" alt="Gemini_Generated_Image_2zma0v2zma0v2zma" src="https://github.com/user-attachments/assets/72c0658b-0d0b-4312-8321-d818b0dac02f" />
+
 <h1 align="center">Hi 👋, I'm RA SOIKOT</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh, dedicated to building clean, functional, and scalable web applications.</h3>
 
