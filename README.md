@@ -24,7 +24,7 @@ ra_soikot = {
 
 📫 How to reach me: rasaikat7716@gmail.com
 
-🛠 Languages and Tools:
+<h1>🛠 Languages and Tools:</h1>
 <p align="left">
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/> </a>
