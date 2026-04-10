@@ -64,15 +64,7 @@ I am a passionate **MERN Stack Developer** from Bangladesh. I love turning compl
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasoikot-ras&theme=tokyonight" alt="Streak" />
 </p>
 
-### 💫 My Journey:
-```
-ra_soikot = {
-    "education":   "B.S.S. Sociology @ National University",
-    "focus":       "MERN Stack Development",
-    "interests":   ["Full Stack Web", "Open Source Contribution"],
-    "hobbies":     ["Football", "Reading"],
-    "philosophy":  "Writing efficient code for better User Experience"
-}
+
 
 
 # 🚀 Project Name (DIGITOOLS Dashboard)
@@ -107,3 +99,13 @@ A brief overview of what this project does and who it's for.
 2. Install dependencies: `npm install`
 3. Create `.env` file and add credentials.
 4. Run the app: `npm start`
+
+### 💫 My Journey:
+```
+ra_soikot = {
+    "education":   "B.S.S. Sociology @ National University",
+    "focus":       "MERN Stack Development",
+    "interests":   ["Full Stack Web", "Open Source Contribution"],
+    "hobbies":     ["Football", "Reading"],
+    "philosophy":  "Writing efficient code for better User Experience"
+}
