@@ -52,17 +52,27 @@ I am a passionate **MERN Stack Developer** from Bangladesh. I love turning compl
 
 ### 📊 GitHub Stats:
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rasoikot-ras&show_icons=true&theme=tokyonight" alt="Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasoikot-ras&layout=compact&theme=tokyonight" alt="Langs" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasoikot-ras&theme=tokyonight" alt="Streak" />
 </p>
+
+### 💫 My Journey:
+```
+ra_soikot = {
+    "education":   "B.S.S. Sociology @ National University",
+    "focus":       "MERN Stack Development",
+    "interests":   ["Full Stack Web", "Open Source Contribution"],
+    "hobbies":     ["Football", "Reading"],
+    "philosophy":  "Writing efficient code for better User Experience"
+}
 
 
 # 🚀 Project Name (DIGITOOLS Dashboard)
