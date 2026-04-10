@@ -53,11 +53,11 @@ I am a passionate **MERN Stack Developer** from Bangladesh. I love turning compl
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasoikot-ras&show_icons=true&theme=tokyonight&count_private=true" alt="RA SOIKOT Stats" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasoikot-ras&layout=compact&theme=tokyonight" alt="Top Langs" />
+  ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasoikot-ras&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasoikot-ras&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rasoikot-ras&theme=tokyonight)
   
   <br/><br/>
   
