@@ -63,8 +63,8 @@ A brief overview of what this project does and who it's for.
 
 ### 🔗 Links
 - **Live Demo:** [https://roaring-bubblegum-de9c97.netlify.app/]
-- **Client Repo:** [Link Here]
-- **Server Repo:** [Link Here]
+- **Client Repo:** [https://github.com/rasoikot-ras/My-Assignment-6]
+- **Server Repo:** [https://github.com/rasoikot-ras/My-Assignment-6]
 
 ### 📸 Screenshot
 ![Screenshot_30-3-2026_45055_localhost](https://github.com/user-attachments/assets/466e2946-a4d9-4e97-8ca5-9c5cbc457f55)
