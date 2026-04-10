@@ -20,7 +20,7 @@ I am a passionate **MERN Stack Developer** from Bangladesh. I love turning compl
 - 🔭 I’m currently working on a **Digital Tools Buying Website**
 - 🌱 I’m currently exploring **Next.js and Redux for Scalable Apps**
 - ⚡ I'm also interested in **Competitive Programming**
-- 🎮 Fun Fact: I love playing **eFootball** in my free time!
+- 🎮 Fun Fact: I love playing **Football** in my free time!
 
 ---
 
@@ -67,7 +67,9 @@ A brief overview of what this project does and who it's for.
 - **Server Repo:** [Link Here]
 
 ### 📸 Screenshot
-![Project Screenshot](link-to-your-image.png)
+![Screenshot_30-3-2026_45055_localhost](https://github.com/user-attachments/assets/466e2946-a4d9-4e97-8ca5-9c5cbc457f55)
+
+
 
 ### 🛠️ Tech Stack
 - **Frontend:** React, Tailwind CSS
