@@ -65,7 +65,7 @@ I am a passionate **MERN Stack Developer** from Bangladesh. I love turning compl
 </p>
 
 
-# 🚀 Project Name (e.g., Job Tracking Dashboard)
+# 🚀 Project Name (DIGITOOLS Dashboard)
 A brief overview of what this project does and who it's for.
 
 ### 🔗 Links
