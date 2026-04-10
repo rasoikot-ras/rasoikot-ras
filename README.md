@@ -24,6 +24,18 @@ I am a passionate **MERN Stack Developer** from Bangladesh. I love turning compl
 
 ---
 
+### 💫 My Journey:
+```python
+ra_soikot = {
+    "education":   "B.S.S. Sociology @ National University",
+    "focus":       "MERN Stack Development",
+    "interests":   ["Full Stack Web", "Open Source Contribution"],
+    "hobbies":     ["Football", "Reading"],
+    "philosophy":  "Writing efficient code for better User Experience"
+}
+
+---
+
 ### 🛠️ Languages and Tools
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> </a>
@@ -100,12 +112,3 @@ A brief overview of what this project does and who it's for.
 3. Create `.env` file and add credentials.
 4. Run the app: `npm start`
 
-### 💫 My Journey:
-```
-ra_soikot = {
-    "education":   "B.S.S. Sociology @ National University",
-    "focus":       "MERN Stack Development",
-    "interests":   ["Full Stack Web", "Open Source Contribution"],
-    "hobbies":     ["Football", "Reading"],
-    "philosophy":  "Writing efficient code for better User Experience"
-}
