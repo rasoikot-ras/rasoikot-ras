@@ -33,7 +33,7 @@ ra_soikot = {
     "hobbies":     ["Football", "Reading"],
     "philosophy":  "Writing efficient code for better User Experience"
 }
-
+```
 ---
 
 ### 🛠️ Languages and Tools
