@@ -25,7 +25,6 @@ I am a passionate **MERN Stack Developer** from Bangladesh. I love turning compl
 ---
 
 ### 💫 My Journey:
-```python
 ra_soikot = {
     "education":   "B.S.S. Sociology @ National University",
     "focus":       "MERN Stack Development",
